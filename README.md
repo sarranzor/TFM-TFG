@@ -13,13 +13,13 @@ En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
 
   **Abstract**
 
-   > &nbsp;&nbsp;&nbsp;&nbsp;The emergence of foundation models may lead to a paradigm shift in the field of affective computing, with applications in areas such as healthcare and education. The aim of this study is to evaluate the capabilities of foundation models in the recognition of images with context-aware emotions (CAER) and in the synthetic generation of such images.
-   >
-   > &nbsp;&nbsp;&nbsp;&nbsp;Firstly, the zero-shot performance of the LLaVA model is evaluated on the EMOTIC (adapted to a single-label task) and NCAER-S benchmarks, comparing the results with a baseline model consisting in a dual ResNet architecture complemented with a CCIM module. Secondly, SynthCAER is constructed, a synthetic dataset of 14 812 images generated using StableDiffusionXL from 529 contexts, whose categories correspond to the six basic emotions plus neutrality.
-   > 
-   > &nbsp;&nbsp;&nbsp;&nbsp;The results show mixed performance from the foundational model: LLaVA outperforms the baseline model on EMOTIC (F1 = 0.334 vs 0.164), but performs worse on NCAER-S (F1 = 0.148 vs 0.244), suggesting a greater reliance on contextual cues than on facial expression. On SynthCAER, both models improve in performance, indicating the presence of more prototypical visual schemas in the synthetic images. 
-   >
-   > &nbsp;&nbsp;&nbsp;&nbsp;It is concluded that foundation models show good potential, although they present issues such as a tendency to collapse into a few categories, such as joy and sadness. Preliminary indications of gender bias in the generative process are also detected, and a comprehensive analysis of this is proposed as a future line of research.
+> &nbsp;&nbsp;&nbsp;&nbsp;The emergence of foundation models may lead to a paradigm shift in the field of affective computing, with applications in areas such as healthcare and education. The aim of this study is to evaluate the capabilities of foundation models in the recognition of images with context-aware emotions (CAER) and in the synthetic generation of such images.
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;Firstly, the zero-shot performance of the LLaVA model is evaluated on the EMOTIC (adapted to a single-label task) and NCAER-S benchmarks, comparing the results with a baseline model consisting in a dual ResNet architecture complemented with a CCIM module. Secondly, SynthCAER is constructed, a synthetic dataset of 14 812 images generated using StableDiffusionXL from 529 contexts, whose categories correspond to the six basic emotions plus neutrality.
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;The results show mixed performance from the foundational model: LLaVA outperforms the baseline model on EMOTIC (F1 = 0.334 vs 0.164), but performs worse on NCAER-S (F1 = 0.148 vs 0.244), suggesting a greater reliance on contextual cues than on facial expression. On SynthCAER, both models improve in performance, indicating the presence of more prototypical visual schemas in the synthetic images. 
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;It is concluded that foundation models show good potential, although they present issues such as a tendency to collapse into a few categories, such as joy and sadness. Preliminary indications of gender bias in the generative process are also detected, and a comprehensive analysis of this is proposed as a future line of research.
   
 
 ## 2- Estableciendo criterios externos para la actualización de un meta-análisis (2022)
