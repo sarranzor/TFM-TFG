@@ -1,6 +1,8 @@
 # TFM-TFG
 Master's and bachelor's degree final projects
 
+English translations made with Deepl
+
 En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
 
 ## 1- Generación y evaluación del contexto en imágenes con contenido emocional a través de Modelos Fundacionales (2026)
