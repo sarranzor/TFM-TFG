@@ -6,9 +6,11 @@ English translations made with Deepl
 En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
 
 ## 1- Generación y evaluación del contexto en imágenes con contenido emocional a través de Modelos Fundacionales (2026)
+
 ## 1- Generation and evaluation of context in emotional images through Foundational Models (2026)
 
   TFM Máster en Ciencida de Datos - UOC
+  
   Data Science Master's Degree Final Project - UOC
 
   **Abstract**
