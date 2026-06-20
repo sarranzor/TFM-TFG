@@ -13,11 +13,12 @@ En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
 
   **Abstract**
 
-   The emergence of foundation models may lead to a paradigm shift in
+      The emergence of foundation models may lead to a paradigm shift in
    the field of affective computing, with applications in areas such as healthcare
    and education. The aim of this study is to evaluate the capabilities of
    foundation models in the recognition of images with context-aware emotions
    (CAER) and in the synthetic generation of such images.
+   
    Firstly, the zero-shot performance of the LLaVA model is evaluated on
    the EMOTIC (adapted to a single-label task) and NCAER-S benchmarks,
    comparing the results with a baseline model consisting in a dual ResNet
@@ -25,6 +26,7 @@ En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
    constructed, a synthetic dataset of 14 812 images generated using
    StableDiffusionXL from 529 contexts, whose categories correspond to the six
    basic emotions plus neutrality.
+   
    The results show mixed performance from the foundational model:
    LLaVA outperforms the baseline model on EMOTIC (F1 = 0.334 vs 0.164),
    but performs worse on NCAER-S (F1 = 0.148 vs 0.244), suggesting a greater
